@@ -1,5 +1,9 @@
 Tablas::Application.routes.draw do
+<<<<<<< HEAD
+  resources :materia
+=======
   resources :cursos
+>>>>>>> 89f526fe524001eccc2f27831aefb3397bfd5ad5
 
 
   # The priority is based upon order of creation:
