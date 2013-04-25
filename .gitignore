@@ -14,4 +14,8 @@
 /log/*.log
 /tmp
 
+<<<<<<< HEAD
 /config/database.yml
+=======
+/config/*.yml
+>>>>>>> 89f526fe524001eccc2f27831aefb3397bfd5ad5
