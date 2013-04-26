@@ -1,1 +1,1 @@
-nuevo proyecto en raisl en el cual se trabajara con ramas apartes y se unificaral al final 
+nuevo proyecto en raisl en el cual se trabajara con ramas apartes y se unificaral al final para parcticar con las ramas de git 
